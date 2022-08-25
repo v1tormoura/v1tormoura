@@ -63,7 +63,7 @@
 <br>
 
 ## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
-![Snake animation](https://github.com/VitorMoura/VitorMoura/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VitorMoura/v1tormoura/blob/output/github-contribution-grid-snake.svg)
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=v1tormoura&hide_border=true&theme=react-dark)
 
