@@ -1,4 +1,3 @@
 - 👋  Olá! Eu sou o Vitor Moura
-- 👀  I’m interested in ...
 - 🎓  Cursando ANÁLISE E DESENVOLVIMENTO DE SISTEMAS na FATECJALES .
 - 📫  Você pode encontrar meu contato no LinkedIn: https://www.linkedin.com/in/vitor-moura-48b2981bb/
