@@ -73,8 +73,8 @@
    
   <a href="https://github.com/VitorMoura?tab=repositories&sort=stargazers">
    <img alt="stars" title="Total stars on GitHub" 
-   src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000030&labelColor=000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/VitorMoura"/></a>
-  <a href="https://github.com/VitorMoura?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/VitorMoura?color=000030&labelColor=000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000030&labelColor=000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/v1tormoura"/></a>
+  <a href="https://github.com/v1tormoura?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/v1tormoura?color=000030&labelColor=000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
