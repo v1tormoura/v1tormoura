@@ -3,7 +3,7 @@
 <h1 align="left">Oi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30">  eu sou Vitor Moura 
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=v1tormoura&color=191b1e" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=191b1e" alt="Profile views" /> </p>
 
 <br>
 
