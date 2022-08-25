@@ -63,18 +63,18 @@
 <br>
 
 ## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
-![Snake animation](https://github.com/EvanderInacio/EvanderInacio/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VitorMoura/VitorMoura/blob/output/github-contribution-grid-snake.svg)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=EvanderInacio&hide_border=true&theme=react-dark)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=VitorMoura&hide_border=true&theme=react-dark)
 
 ----
 
 <p align="center">
    
-  <a href="https://github.com/EvanderInacio?tab=repositories&sort=stargazers">
+  <a href="https://github.com/VitorMoura?tab=repositories&sort=stargazers">
    <img alt="stars" title="Total stars on GitHub" 
-   src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000030&labelColor=000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/EvanderInacio"/></a>
-  <a href="https://github.com/EvanderInacio?tab=followers">
+   src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000030&labelColor=000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/VitorMoura"/></a>
+  <a href="https://github.com/VitorMoura?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/EvanderInacio?color=000030&labelColor=000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
