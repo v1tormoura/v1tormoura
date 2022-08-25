@@ -7,7 +7,7 @@
 
 <br>
 
- ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
+ ## &nbsp; <img src="/EvanderInacio/EvanderInacio/raw/main/images/oculos.gif " width="30" align="center"> &nbsp;About me
  
 - 👨‍🎓 Cursando **Análise e Desenvolvimento de Sistemas.**
 
