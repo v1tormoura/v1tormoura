@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @v1tormoura
+- 👋 Olá! Eu sou o Vitor Moura
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫  Contate-me
-
-<!---
-v1tormoura/v1tormoura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 Cursando ANÁLISE E DESENVOLVIMENTO DE SISTEMAS na FATECJALES .
+- 📫 Você pode encontrar meu contato no LinkedIn: https://www.linkedin.com/in/vitor-moura-48b2981bb/
