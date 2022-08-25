@@ -38,15 +38,15 @@
 <p align="left">
  
  <a href="https://www.linkedin.com/in/vitor-moura-48b2981bb/">
-  <img src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/evander-inacio"/> 
+  <img src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/vitor-moura-48b2981bb/"/> 
  </a>
  
  <a href="https://www.facebook.com/profile.php?id=100009563841386" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-rgb(25, 27, 30)?style=for-the-badge&logo=Facebook&logoColor=rgb(150, 118, 228)&link=https://www.facebook.com/evandder.lopes"/> 
+  <img src="https://img.shields.io/badge/-Facebook-rgb(25, 27, 30)?style=for-the-badge&logo=Facebook&logoColor=rgb(150, 118, 228)&link=https://www.facebook.com/profile.php?id=100009563841386"/> 
  </a>
  
  <a href="https://twitter.com/__vitormoura" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-rgb(25, 27, 30)?style=for-the-badge&logo=Twitter&logoColor=rgb(150, 118, 228)&link=https://twitter.com/Evander_Inacio"/> 
+  <img src="https://img.shields.io/badge/-Twitter-rgb(25, 27, 30)?style=for-the-badge&logo=Twitter&logoColor=rgb(150, 118, 228)&link=https://twitter.com/__vitormoura"/> 
  </a>
  
  </p>
@@ -56,7 +56,7 @@
 ## <img src="images/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
 
 <div align="center">
-<img height='180em' src="https://github-readme-stats.vercel.app/api?username=EvanderInacio&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="evander stats"/>
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=VitorMoura&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="evander stats"/>
 <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderInacio&layout=compact&theme=aura" alt="evander stats"/>
  </div>
   
