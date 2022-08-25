@@ -1,6 +1,6 @@
 
 <img src="images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
-<h1 align="left">Hi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> I'm Evander Inácio
+<h1 align="left">Oi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> eu sou Vitor Moura
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=191b1e" alt="Profile views" /> </p>
@@ -9,17 +9,9 @@
 
  ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
  
-- 🚀 My portfolio **[ evanderinacio.com](https://www.evanderinacio.com)**
+- 👨‍🎓 Cursando **Análise e Desenvolvimento de Sistemas.**
 
-- 🔗 My Bio **[evander-bio](https://evander-bio.vercel.app/)**
- 
-- 👨‍🎓 I'm graduated in **Systems Analysis and Development.**
-
-- 👨‍💻  I’m always studying `JavaScript`
-
-- 👀 I’m interested in `TypeScript` | `ReactJS`
-
-- 📫 If you want to send a message.  **evander.20112@hotmail.com**
+- 📫 Se você quiser enviar uma mensagem.  **mourinnha7@gmail.com**
 
 <br>
 
