@@ -57,7 +57,7 @@
 
 <div align="center">
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=VitorMoura&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="evander stats"/>
-<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanderInacio&layout=compact&theme=aura" alt="evander stats"/>
+<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMoura&layout=compact&theme=aura" alt="evander stats"/>
  </div>
   
 <br>
