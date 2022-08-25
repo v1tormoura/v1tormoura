@@ -1,5 +1,5 @@
 
-<img src="images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/main/images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
 <h1 align="left">Oi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> eu sou Vitor Moura
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
