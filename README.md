@@ -37,22 +37,18 @@
 
 <p align="left">
  
- <a href="https://www.linkedin.com/in/evander-inacio" alt="Linkedin">
+ <a href="https://www.linkedin.com/in/vitor-moura-48b2981bb/">
   <img src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/evander-inacio"/> 
  </a>
  
- <a href="https://www.facebook.com/evandder.lopes" alt="Facebook">
+ <a href="https://www.facebook.com/profile.php?id=100009563841386" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-rgb(25, 27, 30)?style=for-the-badge&logo=Facebook&logoColor=rgb(150, 118, 228)&link=https://www.facebook.com/evandder.lopes"/> 
  </a>
  
- <a href="https://twitter.com/Evander_Inacio" alt="Twitter">
+ <a href="https://twitter.com/__vitormoura" alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-rgb(25, 27, 30)?style=for-the-badge&logo=Twitter&logoColor=rgb(150, 118, 228)&link=https://twitter.com/Evander_Inacio"/> 
  </a>
  
- <a href="https://www.evanderinacio.com/" alt="Portfolio">
-  <img src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.evanderinacio.com/"/>
- </a>
-
  </p>
 
 <br>
