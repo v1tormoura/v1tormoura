@@ -61,7 +61,7 @@
   
 <br>
 
-## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
+## <img src="https://github.com/EvanderInacio/EvanderInacio/raw/main/images/gato.gif" width="50" align="center"> &nbsp;My Commits
 ![Snake animation](https://github.com/v1tormoura/v1tormoura/blob/output/github-contribution-grid-snake.svg)
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=v1tormoura&hide_border=true&theme=react-dark)
