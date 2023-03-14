@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitor+Moura;I'm+20+years+old;I+am+from+São+Francisco,+SP;I+study+analysis+and+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitor+Moura;I'm+20+years+old;I+am+from+São+Francisco,+SP;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/v1tormoura/v1tormoura/main/images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
 <h1 align="left">Oi, <img src="https://github.com/v1tormoura/v1tormoura/blob/main/images/Earth.gif?raw=true" width="30">  eu sou Vitor Moura 
