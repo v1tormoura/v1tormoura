@@ -17,20 +17,20 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-<p align="left">
- 
- <img src="https://img.shields.io/badge/-HTML5-rgb(25, 27, 30)?style=for-the-badge&logo=html5&logoColor=rgb(150, 118, 228)" alt="html5"/> 
- 
- <img src="https://img.shields.io/badge/CSS3-rgb(25, 27, 30)?style=for-the-badge&logo=css3&logoColor=rgb(150, 118, 228)" alt="css3"/>
- 
- <img src="https://img.shields.io/badge/JavaScript-rgb(25, 27, 30)?style=for-the-badge&logo=javascript&logoColor=rgb(150, 118, 228)" alt="javascript"/> 
- 
- <img src="https://img.shields.io/badge/typeScript-rgb(25,%2027,%2030)?style=for-the-badge&logo=typescript&logoColor=rgb(150,%20118,%20228)" alt="typescript"/>
- 
- <img src="https://img.shields.io/badge/reactJs-rgb(25,%2027,%2030)?style=for-the-badge&logo=react&logoColor=rgb(150,%20118,%20228)" alt="reactJs"/>
- 
-</p>
-  
+<div align="center" valign="top"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
+
 <br>
 
 ## 👨🏻‍💼 &nbsp;Connect with Me
