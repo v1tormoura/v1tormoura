@@ -61,4 +61,4 @@
 
 <br>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B67DB&width=435&lines=Evander+Inácio+2023)](https://github.com/EvanderInacio)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B67DB&width=435&lines=Vitor+Moura+2023)](https://github.com/v1tormoura)
