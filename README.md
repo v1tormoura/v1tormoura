@@ -9,7 +9,7 @@
 
  ## &nbsp; <img src="https://github.com/v1tormoura/v1tormoura/raw/main/images/oculos.gif" width="30" align="center"> &nbsp;About me
  
-- 👨‍🎓 Cursando **Análise e Desenvolvimento de Sistemas.**
+- 👨‍🎓 Sou formado em **Análise e Desenvolvimento de Sistemas.**
 
 - 📫 Se você quiser enviar uma mensagem.  **mourinnha7@gmail.com**
 
