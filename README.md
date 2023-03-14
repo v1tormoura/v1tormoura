@@ -17,19 +17,26 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://github.com/duribeiro/duribeiro/blob/main/assets/GitHub.png">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<div align="left">
+ <p>
+    <a href='https://html.com/'><img src="https://skillicons.dev/icons?i=html"/></a>
+    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'><img src="https://skillicons.dev/icons?i=css"/></a>
+    <a href='https://www.javascript.com/'><img src="https://skillicons.dev/icons?i=js"/></a>
+    <a href='https://www.typescriptlang.org/'><img src="https://skillicons.dev/icons?i=ts"/></a>
+    <a href='https://reactjs.org/'><img src="https://skillicons.dev/icons?i=react"/></a>
+    <a href='https://nextjs.org/'><img src="https://skillicons.dev/icons?i=nextjs"/></a>
+    <a href='https://nodejs.org/en/'><img src="https://skillicons.dev/icons?i=nodejs"/></a>
+    <a href='https://git-scm.com/'><img src="https://skillicons.dev/icons?i=git"/></a>
+    <a href='https://styled-components.com/'><img src="https://skillicons.dev/icons?i=styledcomponents"/></a>
+    <a href='https://tailwindui.com/'><img src="https://skillicons.dev/icons?i=tailwind"/></a>
+    <a href='https://sass-lang.com/'><img src="https://skillicons.dev/icons?i=sass"/></a>
+    <a href='https://www.figma.com/'><img src="https://skillicons.dev/icons?i=figma"/></a>
+ </p>
+
 </div>
+  
+<br>
+
 
 <br>
 
@@ -47,7 +54,7 @@
 
 ## <img src="https://github.com/EvanderInacio/EvanderInacio/raw/main/images/gato_astronauta.gif" width="50" height="50" align="10">&nbsp;GitHub Analytics
 
-<div align="center">  
+<div align="center">&nbsp;GitHub Activities
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=v1tormoura&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Moura github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1tormoura&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
@@ -55,3 +62,5 @@
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=v1tormoura&theme=gotham)
   
 <br>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B67DB&width=435&lines=Evander+Inácio+2023)](https://github.com/EvanderInacio)
