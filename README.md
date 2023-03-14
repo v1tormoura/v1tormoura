@@ -47,12 +47,11 @@
 
 ## <img src="https://github.com/EvanderInacio/EvanderInacio/raw/main/images/gato_astronauta.gif" width="50" height="50" align="10">&nbsp;GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/v1tormoura">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=v1tormoura&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1tormoura&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=v1tormoura&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1tormoura&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
 
 
   
