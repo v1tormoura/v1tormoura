@@ -35,21 +35,13 @@
 
 ## 👨🏻‍💼 &nbsp;Connect with Me
 
-<p align="left">
- 
- <a href="https://www.linkedin.com/in/vitor-moura-48b2981bb/">
-  <img src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/vitor-moura-48b2981bb/"/> 
- </a>
- 
- <a href="https://www.facebook.com/profile.php?id=100009563841386" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-rgb(25, 27, 30)?style=for-the-badge&logo=Facebook&logoColor=rgb(150, 118, 228)&link=https://www.facebook.com/profile.php?id=100009563841386"/> 
- </a>
- 
- <a href="https://twitter.com/__vitormoura" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-rgb(25, 27, 30)?style=for-the-badge&logo=Twitter&logoColor=rgb(150, 118, 228)&link=https://twitter.com/__vitormoura"/> 
- </a>
- 
- </p>
+<div> 
+  <a href="https://www.instagram.com/v1tormoura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:mourinnha7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitor-moura-48b2981bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 
 <br>
 
