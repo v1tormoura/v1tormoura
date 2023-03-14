@@ -70,5 +70,4 @@
 </div>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B67DB&width=435&lines=Vitor+Moura+2023)](https://github.com/v1tormoura)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
